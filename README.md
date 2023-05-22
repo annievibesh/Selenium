@@ -1,2 +1,2 @@
 # Selenium
-This pgm is used to read values(credentials) from excel sheet for selenium.
+Here are some basic examples for automation testing using selenium.
